@@ -2,7 +2,7 @@
   "name": "push_server",
   "version": "0.1.0",
   "description": "WEB推送服务",
-  "main": "app.js",
+  "main": "source/app.js",
   "scripts": {
     "test": "node ./app.js"
   },

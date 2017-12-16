@@ -1,0 +1,11 @@
+{
+    "node": {
+        "redis": "用作缓存服务",
+        "express": "部署服务、应用及路由请求",
+        "socket.io": "基础通讯服务框架",
+        "body-parser": "用于POST请求接受请求体"
+    },
+    "server": {
+        "redis-server": "缓存服务（windows平台/v:2.8）"
+    }
+}
